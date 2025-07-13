@@ -12,7 +12,7 @@ Viva adalah komunitas open-source yang berfokus pada inovasi, kreativitas, dan k
 
 Kami menyambut semua orang yang ingin berpartisipasi. Bersama-sama, kita belajar, berdiskusi, dan berkontribusi.
 
- - Server Discord resmi Viva – Coming Soon
+ - [Server Discord](https://discord.gg/ZhEvrtYmAh) resmi Viva
 
 ## Menggunakan sumber terbuka
 

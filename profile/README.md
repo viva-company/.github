@@ -12,7 +12,7 @@ Viva is an open-source community focused on innovation, creativity, and cross-di
 
 We welcome everyone who wants to participate. Together, we learn, discuss, and contribute.
 
- - Viva's official Discord server – Coming Soon
+ - Viva's official [Discord server](https://discord.gg/ZhEvrtYmAh)
 
 ## Using open source
 
